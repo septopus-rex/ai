@@ -1,6 +1,7 @@
 # AI Management Center Of Septopus World
 
 * AIs management for Septopus.
+* Project Management will deploy on Solanan Devnet to test.
 
 ## Workflow
 
